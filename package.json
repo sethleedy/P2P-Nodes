@@ -1,5 +1,6 @@
 {
   "name": "p2p-nodes",
+  "repository": "https://github.com/sethleedy/P2P-Nodes",
   "version": "1.0.0",
   "description": "A platform to store information and control the nodes machine, via a P2P network.",
   "main": "index.js",
@@ -10,5 +11,11 @@
     "p2p"
   ],
   "author": "Seth Leedy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lokijs": "^1.4.3",
+    "pson": "^2.0.0",
+    "remote-events": "^1.1.4",
+    "smokesignal": "^0.2.2"
+  }
 }
