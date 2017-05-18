@@ -1,0 +1,14 @@
+{
+  "name": "p2p-nodes",
+  "version": "1.0.0",
+  "description": "A platform to store information and control the nodes machine, via a P2P network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p2p"
+  ],
+  "author": "Seth Leedy",
+  "license": "ISC"
+}
