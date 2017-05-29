@@ -16,6 +16,7 @@
     "lokijs": "^1.4.3",
     "pson": "^2.0.0",
     "remote-events": "^1.1.4",
-    "smokesignal": "^0.2.2"
+    "smokesignal": "^0.2.2",
+    "underscore": "^1.8.3"
   }
 }
