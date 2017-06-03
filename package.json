@@ -5,7 +5,7 @@
   "description": "A platform to store information and control the nodes machine, via a P2P network.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint src"
   },
   "keywords": [
     "p2p"
@@ -18,5 +18,10 @@
     "remote-events": "^1.1.4",
     "smokesignal": "^0.2.2",
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.1"
   }
 }

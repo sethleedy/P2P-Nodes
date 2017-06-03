@@ -1,0 +1,46 @@
+'node-192.168.0.207':
+   Node {
+     options:
+      { address: '192.168.0.207',
+        minPeerNo: 3,
+        maxPeerNo: 5,
+        port: 8495,
+        seeds: [Object],
+        pingTimeout: 3000,
+        logger: [Object] },
+     id: '2dlj5vyunjd2',
+     listening: false,
+     connected: false,
+     outstandingPongs: {},
+     peers:
+      Peerlist {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        node: [Circular],
+        list: [] },
+     broadcast:
+      Broadcast {
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        knownPackets: {},
+        node: [Circular] },
+     logger:
+      { trace: [Function],
+        debug: [Function],
+        info: [Function],
+        warn: [Function],
+        error: [Function],
+        fatal: [Function] },
+     domain: null,
+     _events: { connect: [Function: bound ], disconnect: [Function: bound ] },
+     _eventsCount: 2,
+     _maxListeners: undefined } }
